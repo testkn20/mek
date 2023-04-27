@@ -1,0 +1,22 @@
+{
+  "name": "mek_konne-pgb-cli-2021-1130-113443",
+  "version": "1.0.0",
+  "description": "mek application",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/testkn20/mek.git"
+  },
+  "keywords": [
+    "mek"
+  ],
+  "author": "sabiocom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/testkn20/mek/issues"
+  },
+  "homepage": "https://github.com/testkn20/mek#readme"
+}
